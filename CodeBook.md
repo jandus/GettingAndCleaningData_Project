@@ -10,10 +10,13 @@ All variables contain the mean of the metric by Subject and Activity.
 Note: Mean is not added to the name of the columns to avoid more complex name.
 
 ###1. TidyDataSet.txt
-	Used as a catalog
+	
+	Mean of the metrics of the Samsung experiment that previously had mean and standar deviation
+	Number of Variables=68
+	Number of Rows during the last generation= 180
 	header=yes
 	header quoted=yes
-	**variable names**
+	*Variable names*
 		1 "Subject"                                               
  			Description: Subject who perform the activity.
 			Type:numeric
