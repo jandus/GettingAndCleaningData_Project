@@ -32,12 +32,12 @@ Getting and Cleanning Data project requires to generate a Tidy Data set with inf
 This information is in the repo 
 
 Files:
-1. run_analysis.R
+1. run_analysis.R script
 2. Code Book.md
 3. TidyDataSet.txt
 
 
-#### run_analysis.R
+#### 1. run_analysis.R script
 Script generated to extract information from the experiment sets, clean data and manipulate the information to create an output data set called TidyDataSet.txt with clean information ready for furhter analysis.
 
 When you execute the script this will perform following activities:
@@ -68,16 +68,16 @@ When you execute the script this will perform following activities:
 > Messages:
 > When script is executing you will be able to see on which step the script is being executed.
 
-3. Code Book
+#### 2. Code Book
 
 The Code book contains all the variables and sumaries calculated on the experiment. This includes information of Experiment data set, and TidyDataSet.txt.
 
-4. TidyDataSet.txt
+#### 3. TidyDataSet.txt
 Is a data set that contains the average of 66 measures of the experiment by subject and activity. This data set can be loaded to an R data frame to perform further analysis. 
 
 
 
-> License of Human Activity Recognition Using Smartphones Dataset Version 1.0 expermient:
+License of Human Activity Recognition Using Smartphones Dataset Version 1.0 expermient:
 ========
 Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
 
